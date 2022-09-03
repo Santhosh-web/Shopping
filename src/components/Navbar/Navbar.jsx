@@ -25,7 +25,7 @@ const Navbar = ({ totalItems }) => {
             className={classes.title}
             color='inherit'
           >
-            Commerce.js
+            S A N D Y
           </Typography>
           <div className={classes.grow} />
           {location.pathname === '/' && (
